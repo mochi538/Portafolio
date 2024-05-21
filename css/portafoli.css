@@ -83,6 +83,12 @@ a:hover{
     background-color: rgb(2, 67, 70);
     align-items: center;
 }
+.icon{
+    color:white;
     
+}
+.icon :hover{
+    color: rgb(61, 61, 61);
+}
 
     
